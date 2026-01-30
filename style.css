@@ -1,0 +1,46 @@
+V* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.flag {
+  background: #ffdd81;
+  margin: 50px;
+  padding: 50px;
+  width: 600px;
+  border-radius: 45px;
+}
+.b1 {
+  font-size: 64px;
+  line-height: 100%;
+  font-weight: 800;
+}
+.p3 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 64px;
+  line-height: 100%;
+}
+.b2 {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+}
+.p1 {
+  background: #000;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 25px;
+}
+.p2 {
+  background: #ffdd81;
+  border: 1.5px solid black;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+.p6 {
+  font-weight: bold;
+}
+.p4 {
+  font-style: italic;
+}
